@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tulku: #f97316;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fafaf8;
+}
